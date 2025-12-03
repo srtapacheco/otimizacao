@@ -1,0 +1,25 @@
+{
+  "turma": "COS360-A",
+
+  "intervaloInicial": "2025-12-10",
+  "intervaloFinal": "2025-12-20",
+
+  "dias_aula": ["sexta", "quarta"],
+
+  "avaliacoes_existentes": [
+    { "turma": "COS123-A", "data": "2025-12-10", "professor_id": "777" },
+    { "turma": "COS123-A", "data": "2025-12-12", "professor_id": "777" }
+  ],
+
+  "inscricoes": [
+    { "estudante_id": "2021010001", "turma_id": "COS360-A" },
+    { "estudante_id": "2021010001", "turma_id": "COS123-A" }
+  ],
+
+  "estudantes_turma": [
+    "2021010001"
+  ],
+
+  "feriados": ["2025-12-08"],
+  "espacamento_minimo_dias": 3
+}
